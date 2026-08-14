@@ -1,0 +1,34 @@
+[
+  {
+    "id": "seed-1",
+    "kicker": "Politics",
+    "title": "Big Processed Cheese Spends Record $40M Lobbying Against Rind Transparency Act",
+    "description": "Critics call it the most aggressive dairy-adjacent lobbying push since the Great Fondue Scare.",
+    "createdAt": "2026-08-01T00:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "seed-2",
+    "kicker": "Investigations",
+    "title": "Follow the Whey: Inside the Shell Companies Behind \"Cheese Food\"",
+    "description": "An RCN investigation traces a tangled web of subsidiaries back to a single processing plant.",
+    "createdAt": "2026-08-01T00:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "seed-3",
+    "kicker": "Opinion",
+    "title": "Why String Cheese Is a Threat to the Republic",
+    "description": "Our panel of pundits weighs in on individually wrapped snacking and what it says about us.",
+    "createdAt": "2026-08-01T00:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "seed-4",
+    "kicker": "Man on the Street",
+    "title": "\"I Just Want My Sandwich to Taste Like Something\"",
+    "description": "RCN hits the streets to ask real Americans how they really feel about melt quality.",
+    "createdAt": "2026-08-01T00:00:00.000Z",
+    "source": "seed"
+  }
+]
